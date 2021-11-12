@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/netcoreapp3.1/TimeLog.deps.json
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/netcoreapp3.1/TimeLog.runtimeconfig.json
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/netcoreapp3.1/TimeLog.runtimeconfig.dev.json
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/netcoreapp3.1/TimeLog.dll
+/Users/wemabank/Projects/TimeLog/TimeLog/bin/Debug/netcoreapp3.1/TimeLog.pdb
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.AssemblyInfo.cs
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.dll
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.pdb
+/Users/wemabank/Projects/TimeLog/TimeLog/obj/Debug/netcoreapp3.1/TimeLog.genruntimeconfig.cache
